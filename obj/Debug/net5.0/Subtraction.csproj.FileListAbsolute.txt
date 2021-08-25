@@ -1,0 +1,16 @@
+C:\Users\Daniel Ekeleme\Subtraction\bin\Debug\net5.0\Subtraction.exe
+C:\Users\Daniel Ekeleme\Subtraction\bin\Debug\net5.0\Subtraction.deps.json
+C:\Users\Daniel Ekeleme\Subtraction\bin\Debug\net5.0\Subtraction.runtimeconfig.json
+C:\Users\Daniel Ekeleme\Subtraction\bin\Debug\net5.0\Subtraction.runtimeconfig.dev.json
+C:\Users\Daniel Ekeleme\Subtraction\bin\Debug\net5.0\Subtraction.dll
+C:\Users\Daniel Ekeleme\Subtraction\bin\Debug\net5.0\ref\Subtraction.dll
+C:\Users\Daniel Ekeleme\Subtraction\bin\Debug\net5.0\Subtraction.pdb
+C:\Users\Daniel Ekeleme\Subtraction\obj\Debug\net5.0\Subtraction.csprojAssemblyReference.cache
+C:\Users\Daniel Ekeleme\Subtraction\obj\Debug\net5.0\Subtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Ekeleme\Subtraction\obj\Debug\net5.0\Subtraction.AssemblyInfoInputs.cache
+C:\Users\Daniel Ekeleme\Subtraction\obj\Debug\net5.0\Subtraction.AssemblyInfo.cs
+C:\Users\Daniel Ekeleme\Subtraction\obj\Debug\net5.0\Subtraction.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Ekeleme\Subtraction\obj\Debug\net5.0\Subtraction.dll
+C:\Users\Daniel Ekeleme\Subtraction\obj\Debug\net5.0\ref\Subtraction.dll
+C:\Users\Daniel Ekeleme\Subtraction\obj\Debug\net5.0\Subtraction.pdb
+C:\Users\Daniel Ekeleme\Subtraction\obj\Debug\net5.0\Subtraction.genruntimeconfig.cache
