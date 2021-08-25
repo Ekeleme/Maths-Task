@@ -1,0 +1,16 @@
+C:\Users\Daniel Ekeleme\Multiplication\obj\Debug\net5.0\Multiplication.csprojAssemblyReference.cache
+C:\Users\Daniel Ekeleme\Multiplication\obj\Debug\net5.0\Multiplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Ekeleme\Multiplication\obj\Debug\net5.0\Multiplication.AssemblyInfoInputs.cache
+C:\Users\Daniel Ekeleme\Multiplication\obj\Debug\net5.0\Multiplication.AssemblyInfo.cs
+C:\Users\Daniel Ekeleme\Multiplication\obj\Debug\net5.0\Multiplication.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Ekeleme\Multiplication\bin\Debug\net5.0\Multiplication.exe
+C:\Users\Daniel Ekeleme\Multiplication\bin\Debug\net5.0\Multiplication.deps.json
+C:\Users\Daniel Ekeleme\Multiplication\bin\Debug\net5.0\Multiplication.runtimeconfig.json
+C:\Users\Daniel Ekeleme\Multiplication\bin\Debug\net5.0\Multiplication.runtimeconfig.dev.json
+C:\Users\Daniel Ekeleme\Multiplication\bin\Debug\net5.0\Multiplication.dll
+C:\Users\Daniel Ekeleme\Multiplication\bin\Debug\net5.0\ref\Multiplication.dll
+C:\Users\Daniel Ekeleme\Multiplication\bin\Debug\net5.0\Multiplication.pdb
+C:\Users\Daniel Ekeleme\Multiplication\obj\Debug\net5.0\Multiplication.dll
+C:\Users\Daniel Ekeleme\Multiplication\obj\Debug\net5.0\ref\Multiplication.dll
+C:\Users\Daniel Ekeleme\Multiplication\obj\Debug\net5.0\Multiplication.pdb
+C:\Users\Daniel Ekeleme\Multiplication\obj\Debug\net5.0\Multiplication.genruntimeconfig.cache
