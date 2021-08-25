@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Daniel Ekeleme\\Subtraction\\Subtraction.csproj",
-      "projectName": "Subtraction",
-      "projectPath": "c:\\Users\\Daniel Ekeleme\\Subtraction\\Subtraction.csproj",
+      "projectUniqueName": "c:\\Users\\Daniel Ekeleme\\Division\\Division.csproj",
+      "projectName": "Division",
+      "projectPath": "c:\\Users\\Daniel Ekeleme\\Division\\Division.csproj",
       "packagesPath": "C:\\Users\\Daniel Ekeleme\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Daniel Ekeleme\\Subtraction\\obj\\",
+      "outputPath": "c:\\Users\\Daniel Ekeleme\\Division\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

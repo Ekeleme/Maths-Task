@@ -1,0 +1,16 @@
+C:\Users\Daniel Ekeleme\division\bin\Debug\net5.0\Division.exe
+C:\Users\Daniel Ekeleme\division\bin\Debug\net5.0\Division.deps.json
+C:\Users\Daniel Ekeleme\division\bin\Debug\net5.0\Division.runtimeconfig.json
+C:\Users\Daniel Ekeleme\division\bin\Debug\net5.0\Division.runtimeconfig.dev.json
+C:\Users\Daniel Ekeleme\division\bin\Debug\net5.0\Division.dll
+C:\Users\Daniel Ekeleme\division\bin\Debug\net5.0\ref\Division.dll
+C:\Users\Daniel Ekeleme\division\bin\Debug\net5.0\Division.pdb
+C:\Users\Daniel Ekeleme\division\obj\Debug\net5.0\Division.csprojAssemblyReference.cache
+C:\Users\Daniel Ekeleme\division\obj\Debug\net5.0\Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Ekeleme\division\obj\Debug\net5.0\Division.AssemblyInfoInputs.cache
+C:\Users\Daniel Ekeleme\division\obj\Debug\net5.0\Division.AssemblyInfo.cs
+C:\Users\Daniel Ekeleme\division\obj\Debug\net5.0\Division.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Ekeleme\division\obj\Debug\net5.0\Division.dll
+C:\Users\Daniel Ekeleme\division\obj\Debug\net5.0\ref\Division.dll
+C:\Users\Daniel Ekeleme\division\obj\Debug\net5.0\Division.pdb
+C:\Users\Daniel Ekeleme\division\obj\Debug\net5.0\Division.genruntimeconfig.cache
